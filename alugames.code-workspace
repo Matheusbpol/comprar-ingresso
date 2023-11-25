@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../alugames"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../carrinho-compras"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ingresso"
+	}
+}
